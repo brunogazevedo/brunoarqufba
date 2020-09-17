@@ -1,8 +1,10 @@
-# Site de exemplo da disciplina ARQB39
+# DISCIPLINA ARQB39
 
 Aluno: Bruno Gomes de Azevedo
 
 ## Aula 2
+
+### Site criado para postar os exemplos da disciplina ARQB
 
 [Link de referência do Markdown](https://markdown.net.br/)
 

@@ -8,4 +8,4 @@ Aluno: Bruno Gomes de Azevedo
 
 ### Inserindo uma imagem
 
-![Logo do Revit](https://img2.gratispng.com/20180613/kfc/kisspng-autodesk-revit-computer-icons-autocad-revit-5b20f980097c60.9593174715288876800389.jpg)
+![Logo do Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1024px-Markdown-mark.svg.png)

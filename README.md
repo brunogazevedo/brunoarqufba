@@ -4,4 +4,4 @@ Aluno: Bruno Gomes de Azevedo
 
 ## Aula 2
 
-[Link de referência do Markdown] (https://markdown.net.br/)
+[Link de referência do Markdown](https://markdown.net.br/)
